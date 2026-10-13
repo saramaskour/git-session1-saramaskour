@@ -1,6 +1,7 @@
 # git-session1-saramaskour
 
-**Name:** YOUR FULL NAME
+**Name:** Sara Maskour 
+
 **GitHub username:** saramaskour
 
 ## Description
@@ -21,3 +22,5 @@ git status
 [Pro Git book](https://git-scm.com/book)
 
 ![Project banner](assets/project-banner.svg)
+
+Edited directly on GitHub.
